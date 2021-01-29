@@ -1,0 +1,22 @@
+[
+  {
+    "listname": "My list of users",
+    "date": "17:29 27.01.2021",
+    "users": [
+      {
+        "username": "Alexsey",
+        "surname": "Shishkin",
+        "age": 21,
+        "city": "Montreal",
+        "listId": "6012a804ef5a262ad81bb33d"
+      },
+      {
+        "username": "Johwn",
+        "surname": "Wick",
+        "age": 43,
+        "city": "New York",
+        "listId": "6012a804ef5a262ad81bb33d"
+      }
+    ]
+  }
+]
